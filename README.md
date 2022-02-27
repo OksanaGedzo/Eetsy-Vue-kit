@@ -2,32 +2,32 @@
 
 * LOGIN PAGE ++(**MVP**)++ ✔️
     * NEW USER REGISTRATION ✔️
-        * USER ROLES ❌
-        * SELLER VALIDATION ❌
-    * USER ORDER HISTORY (ADDITIONAL) ❌
+        * USER ROLES 
+        * SELLER VALIDATION 
+    * USER ORDER HISTORY (ADDITIONAL) 
 * ADMIN PAGE  ++(**MVP**)++ ✔️
-    * PRIMARY CATEGORY ❌
-        * ADD ❌
-        * EDIT ❌
-        * DELETE ❌
-    * SUB CATEGORY ❌
-        * ADD ❌
-        * EDIT ❌
-        * DELETE ❌
+    * PRIMARY CATEGORY 
+        * ADD 
+        * EDIT 
+        * DELETE 
+    * SUB CATEGORY 
+        * ADD 
+        * EDIT 
+        * DELETE 
     * ITEM (ALSO VISIBLE TO SELLER ROLES (FOR HIS ITEMS))  ++(**MVP**)++ ✔️
         * ADD ✔️
         * EDIT ✔️
         * DELETE ✔️
       
 * SHOPPING CART PAGE  ++(**MVP**)++ ✔️
-  * INVOICE NUMBER + INVOICE DATE ❌
+  * INVOICE NUMBER + INVOICE DATE 
   * ITEM LIST ++(**MVP**)++ ✔️
     * CHANGE ITEM QUANTITY ✔️
-    * ABILITY TO REMOVE ITEM ❌
+    * ABILITY TO REMOVE ITEM 
   * CHOOSE PAYMENT METHOD ✔️
   * DELIVERY METHOD  ✔️
-    * DELIVERY ADDRESS INSERTION ❌
-    * SHOWS EXPECTED DELIVERY DATE ❌
+    * DELIVERY ADDRESS INSERTION 
+    * SHOWS EXPECTED DELIVERY DATE 
   * SHOW TOTAL SUM (ALL ITEMS + DELIVERY + OTHER FEES (VAT20%))  ++(**MVP**)++ ✔️
   * CONFIRM BUTTON > INVOICE PAGE (WITH SHOPPING CART INFO)  ++(**MVP**)++ ✔️
 
